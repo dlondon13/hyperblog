@@ -5,10 +5,11 @@ body
     font-family: "curier";
     font-size: 16px;
     margin: 0;
-    padding: 0;
+    padding: 2em;
 }
 #container
 {
+    color: purple;
     width: 70%;
     padding: 1em;
     text-align: left;
