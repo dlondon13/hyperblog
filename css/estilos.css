@@ -1,6 +1,6 @@
 body
 {
-    background: burlywood;
+    background: white;
     color: purple;
     text-align: center;
     font-family: "curier";
@@ -11,10 +11,10 @@ body
 
 #cabecera 
 {
-    background:blanchedalmond;
-    box-shadow: 0px 2px 20px 0px rgba(0,0, 0,0.5);
+    background: white;
+    box-shadow: white;
     color: purple;
-    width: 70%;
+    width: 50%;
     font-weight: bold;
     padding: 2em;
     text-align: left;
@@ -33,15 +33,19 @@ body
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
+    
 }
 #container h1
 
 {
     font-size: 20px;
-
+    
 }
 #post
 {
-    background: wheat;
-    padding: 1em;
+    background: white;
+    padding: 2em;
+    width: 50%;
+    border: solid #DDD;
+    margin: auto;
 }
